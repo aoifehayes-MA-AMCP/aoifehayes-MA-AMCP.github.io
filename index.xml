@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aoife Hayes</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aoife Hayes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Aoife Hayes 2022</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Aoife Hayes is a Cork-based curator from Co. Kerry. Her curatorial practice’s primary research concerns include alternative methodologies of productivity and chronopolitics.
+Recent curatorial projects include; host/ghost, co-curated with Glenn Dunlea, St Peter’s Cork; CRUSH, Backwater Artists Group.
+Currently completing a Masters of Arts in Arts Management &amp;amp; Creative Producing at University College Cork. Aoife completed her BA Joint Hons in History of Art &amp;amp; French from University College Cork with honours in 2017.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      <description>Aoife Hayes
+aoife.haze@gmail.com
+Education
+University College Cork, MA in Arts Management &amp;amp; Creative Producing, 2022.
+University College Cork, BA Hons History of Art &amp;amp; French, 2017.
+Experience
+Selection committee at Backwater Artists Group for Ciarán Langford Memorial Bursary and Moving Image Bursary 2022.
+PR &amp;amp; Event Production at Rebound Arts Festival, 2022
+Voiceover work for Ocras by Eoin Ó Fíannachta at NOISE Moves Youth Dance Festival, 2021. Visual Art &amp;amp; Curatorial Assistant at K-Fest Arts &amp;amp; Music Festival, 2019.</description>
+    </item>
+    
+    <item>
+      <title>Practice</title>
+      <link>http://example.org/practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/practice/</guid>
+      <description>Crush 21st June – 26th April 2022, First Floor Corridor Backwater Artists Group “Having a ‘crush’ is about texture&amp;hellip;My surface gets all uneven, my underneath shows through, things shine up suddenly. It’s like ‘being’ crushed material, but also like wearing it, alternately slithery and itchy” – Elizabeth Freeman
+Crush is an exhibition of work by four Backwater Artists Group studio members that demonstrates a nuance of textures. The exhibition explores everyday life through the materiality of texture, conveying transactions between objects, people, landscapes and labour over time.</description>
+    </item>
+    
+    <item>
+      <title>Rebound Arts Festival</title>
+      <link>http://example.org/rebound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/rebound/</guid>
+      <description>Rebound Arts Festival is a three-day multidisciplinary festival based in Cork City. As we bounce back, Rebound seeks to enliven and reclaim the spaces we inhabit, inspire participants and connect diverse communities across our city</description>
+    </item>
+    
+  </channel>
+</rss>
