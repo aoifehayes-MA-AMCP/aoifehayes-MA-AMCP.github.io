@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aoife Hayes</title>
-    <link>http://example.org/tags/</link>
+    <link>https://aoifehayes-ma-amcp.github.io/tags/</link>
     <description>Recent content in Tags on Aoife Hayes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Aoife Hayes 2022</copyright><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Aoife Hayes 2022</copyright><atom:link href="https://aoifehayes-ma-amcp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

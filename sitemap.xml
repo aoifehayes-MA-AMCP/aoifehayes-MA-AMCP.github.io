@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/cv/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/cv/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/index/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/tags/index/</loc>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/post/</loc>
   </url><url>
-    <loc>http://example.org/practice/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/practice/</loc>
   </url><url>
-    <loc>http://example.org/rebound/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/rebound/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://aoifehayes-ma-amcp.github.io/tags/</loc>
   </url>
 </urlset>
