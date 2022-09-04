@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebound on Aoife Hayes</title>
+    <link>https://aoifehayes-ma-amcp.github.io/rebound/</link>
+    <description>Recent content in Rebound on Aoife Hayes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Aoife Hayes 2022</copyright><atom:link href="https://aoifehayes-ma-amcp.github.io/rebound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebound Arts Festival</title>
+      <link>https://aoifehayes-ma-amcp.github.io/rebound/rebound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aoifehayes-ma-amcp.github.io/rebound/rebound/</guid>
+      <description>Rebound Arts Festival is a three-day multidisciplinary festival based in Cork City. As we bounce back, Rebound seeks to enliven and reclaim the spaces we inhabit, inspire participants and connect diverse communities across our city</description>
+    </item>
+    
+  </channel>
+</rss>
